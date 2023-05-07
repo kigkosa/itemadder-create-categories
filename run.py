@@ -19,5 +19,3 @@ with open(r'king_arthur_set.yml') as file:
 with open('./'+namespace+"_category.yml", 'w') as file:
     documents = yaml.dump(data, file, sort_keys=False)   
 print("ok")
-# print(data)
-# print(items)
