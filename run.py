@@ -1,6 +1,6 @@
 import yaml
 
-with open(r'king_arthur_set.yml') as file:
+with open(r'epicrankicon_item.yml') as file:
     documents = yaml.full_load(file)
     data = {}
     data["info"] = documents["info"]
@@ -11,6 +11,7 @@ with open(r'king_arthur_set.yml') as file:
 
     for item, doc in documents["items"].items():
         items.append(namespace+":"+item)
+    data["categories"][namespace]["name"] = namespace.replace("_"," ")
     data["categories"][namespace]["enabled"] = True
     data["categories"][namespace]["icon"] = item
     data["categories"][namespace]["permission"] = "ia.menu."+namespace

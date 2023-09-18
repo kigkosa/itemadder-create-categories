@@ -1,0 +1,147 @@
+info:
+  namespace: "epic_rank_icon"
+items:
+
+  epic_rank_icon_1:
+    display_name: Epic Rank 1
+    permission: item.admin
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - ranks/epicrankicon_1.png
+  epic_rank_icon_2:
+    display_name: Epic Rank 2
+    permission: item.admin
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - ranks/epicrankicon_2.png
+
+  epic_rank_icon_3:
+    display_name: Epic Rank 3
+    permission: item.admin
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - ranks/epicrankicon_3.png
+
+  epic_rank_icon_4:
+    display_name: Epic Rank 4
+    permission: item.admin
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - ranks/epicrankicon_4.png
+
+  epic_rank_icon_5:
+    display_name: Epic Rank 5
+    permission: item.admin
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - ranks/epicrankicon_5.png
+
+  epic_rank_icon_6:
+    display_name: Epic Rank 6
+    permission: item.admin
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - ranks/epicrankicon_6.png
+
+  epic_rank_icon_7:
+    display_name: Epic Rank 7
+    permission: item.admin
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - ranks/epicrankicon_7.png
+
+  epic_rank_icon_8:
+    display_name: Epic Rank 8
+    permission: item.admin
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - ranks/epicrankicon_8.png
+
+  epic_rank_icon_9:
+    display_name: Epic Rank 9
+    permission: item.admin
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - ranks/epicrankicon_9.png
+
+  epic_rank_icon_10:
+    display_name: Epic Rank 10
+    permission: item.admin
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - ranks/epicrankicon_10.png
+
+  epic_rank_icon_11:
+    display_name: Epic Rank 11
+    permission: item.admin
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - ranks/epicrankicon_11.png
+
+  epic_rank_icon_12:
+    display_name: Epic Rank 12
+    permission: item.admin
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - ranks/epicrankicon_12.png
+
+  epic_rank_icon_13:
+    display_name: Epic Rank 13
+    permission: item.admin
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - ranks/epicrankicon_13.png
+
+  epic_rank_icon_14:
+    display_name: Epic Rank 14
+    permission: item.admin
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - ranks/epicrankicon_14.png
+
+  epic_rank_icon_15:
+    display_name: Epic Rank 15
+    permission: item.admin
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - ranks/epicrankicon_15.png
+
+  epic_rank_icon_16:
+    display_name: Epic Rank 16
+    permission: item.admin
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - ranks/epicrankicon_16.png
+
