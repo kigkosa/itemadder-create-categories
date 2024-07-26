@@ -1,0 +1,907 @@
+info:
+  namespace: fantasy_items
+items:
+  fantasy_butterfly_blue:
+    display_name: Fantasy Butterfly Blue
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+        - butterfly/butterfly_blue.png
+  fantasy_butterfly_green:
+    display_name: Fantasy Butterfly Green
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - butterfly/butterfly_green.png
+  fantasy_butterfly_indigo:
+    display_name: Fantasy Butterfly Indigo
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - butterfly/butterfly_indigo.png
+  fantasy_butterfly_orange:
+    display_name: Fantasy Butterfly Orange
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - butterfly/butterfly_orange.png
+  fantasy_butterfly_purple:
+    display_name: Fantasy Butterfly Purple
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - butterfly/butterfly_purple.png
+  fantasy_butterfly_red:
+    display_name: Fantasy Butterfly Red
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - butterfly/butterfly_red.png
+  fantasy_butterfly_yellow:
+    display_name: Fantasy Butterfly Yellow
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - butterfly/butterfly_yellow.png
+  fantasy_butterfly_chrysalis:
+    display_name: Fantasy Butterfly Chrysalis
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - butterfly/chrysalis.png
+  fantasy_butterfly_worm:
+    display_name: Fantasy Butterfly Worm
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - butterfly/worm.png
+  fantasy_coin_gold_1:
+    display_name: Fantasy Coin Gold 1
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - coin_gold/coin_gold_1.png
+  fantasy_coin_gold_2:
+    display_name: Fantasy Coin Gold 2
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - coin_gold/coin_gold_2.png
+  fantasy_coin_gold_3:
+    display_name: Fantasy Coin Gold 3
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - coin_gold/coin_gold_3.png
+  fantasy_coin_silver_1:
+    display_name: Fantasy Coin Silver 1
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - coin_silver/coin_silver_1.png
+  fantasy_coin_silver_2:
+    display_name: Fantasy Coin Silver 2
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - coin_silver/coin_silver_2.png
+  fantasy_coin_silver_3:
+    display_name: Fantasy Coin Silver 3
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - coin_silver/coin_silver_3.png
+  fantasy_dragon_egg:
+    display_name: Fantasy Dragon Egg
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - dragon/dragon_egg.png
+  fantasy_dragon_eye:
+    display_name: Fantasy Dragon Eye
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - dragon/dragon_eye.png
+  fantasy_dragon_heart:
+    display_name: Fantasy Dragon Heart
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - dragon/dragon_heart.png
+  fantasy_dragon_meat:
+    display_name: Fantasy Dragon Meat
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - dragon/dragon_meat.png
+  fantasy_dragon_meat_cooked:
+    display_name: Fantasy Dragon Meat Cooked
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - dragon/dragon_meat_cooked.png
+  fantasy_dragon_meat_rotten:
+    display_name: Fantasy Dragon Meat Rotten
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - dragon/dragon_meat_rotten.png
+  fantasy_dragon_scale:
+    display_name: Fantasy Dragon Scale
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - dragon/dragon_scale.png
+  fantasy_dragon_skull:
+    display_name: Fantasy Dragon Skull
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - dragon/dragon_skull.png
+  fantasy_dragon_tail:
+    display_name: Fantasy Dragon Tail
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - dragon/dragon_tail.png
+  fantasy_dragon_tear:
+    display_name: Fantasy Dragon Tear
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - dragon/dragon_tear.png
+  fantasy_dragon_wing:
+    display_name: Fantasy Dragon Wing
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - dragon/dragon_wing.png
+  fantasy_glass_ball_blue:
+    display_name: Fantasy Glass Ball Blue
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - glass_ball/glass_ball_blue.png
+  fantasy_glass_ball_green:
+    display_name: Fantasy Glass Ball Green
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - glass_ball/glass_ball_green.png
+  fantasy_glass_ball_indigo:
+    display_name: Fantasy Glass Ball Indigo
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - glass_ball/glass_ball_indigo.png
+  fantasy_glass_ball_orange:
+    display_name: Fantasy Glass Ball Orange
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - glass_ball/glass_ball_orange.png
+  fantasy_glass_ball_purple:
+    display_name: Fantasy Glass Ball Purple
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - glass_ball/glass_ball_purple.png
+  fantasy_glass_ball_red:
+    display_name: Fantasy Glass Ball Red
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - glass_ball/glass_ball_red.png
+  fantasy_glass_ball_yellow:
+    display_name: Fantasy Glass Ball Yellow
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - glass_ball/glass_ball_yellow.png
+  fantasy_glass_fragment_blue:
+    display_name: Fantasy Glass Fragment Blue
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - glass_fragment/glass_fragment_blue.png
+  fantasy_glass_fragment_green:
+    display_name: Fantasy Glass Fragment Green
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - glass_fragment/glass_fragment_green.png
+  fantasy_glass_fragment_indigo:
+    display_name: Fantasy Glass Fragment Indigo
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - glass_fragment/glass_fragment_indigo.png
+  fantasy_glass_fragment_orange:
+    display_name: Fantasy Glass Fragment Orange
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - glass_fragment/glass_fragment_orange.png
+  fantasy_glass_fragment_purple:
+    display_name: Fantasy Glass Fragment Purple
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - glass_fragment/glass_fragment_purple.png
+  fantasy_glass_fragment_red:
+    display_name: Fantasy Glass Fragment Red
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - glass_fragment/glass_fragment_red.png
+  fantasy_glass_fragment_yellow:
+    display_name: Fantasy Glass Fragment Yellow
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - glass_fragment/glass_fragment_yellow.png
+  fantasy_key_1:
+    display_name: Fantasy Key 1
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - key/key_1.png
+  fantasy_key_10:
+    display_name: Fantasy Key 10
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - key/key_10.png
+  fantasy_key_2:
+    display_name: Fantasy Key 2
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - key/key_2.png
+  fantasy_key_3:
+    display_name: Fantasy Key 3
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - key/key_3.png
+  fantasy_key_4:
+    display_name: Fantasy Key 4
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - key/key_4.png
+  fantasy_key_5:
+    display_name: Fantasy Key 5
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - key/key_5.png
+  fantasy_key_6:
+    display_name: Fantasy Key 6
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - key/key_6.png
+  fantasy_key_7:
+    display_name: Fantasy Key 7
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - key/key_7.png
+  fantasy_key_8:
+    display_name: Fantasy Key 8
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - key/key_8.png
+  fantasy_key_9:
+    display_name: Fantasy Key 9
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - key/key_9.png
+  fantasy_orc_brain:
+    display_name: Fantasy Orc Brain
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - orc/orc_brain.png
+  fantasy_orc_ear:
+    display_name: Fantasy Orc Ear
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - orc/orc_ear.png
+  fantasy_orc_eye:
+    display_name: Fantasy Orc Eye
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - orc/orc_eye.png
+  fantasy_orc_fang:
+    display_name: Fantasy Orc Fang
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - orc/orc_fang.png
+  fantasy_orc_heart:
+    display_name: Fantasy Orc Heart
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - orc/orc_heart.png
+  fantasy_orc_leather:
+    display_name: Fantasy Orc Leather
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - orc/orc_leather.png
+  fantasy_orc_meat:
+    display_name: Fantasy Orc Meat
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - orc/orc_meat.png
+  fantasy_orc_meat_cooked:
+    display_name: Fantasy Orc Meat Cooked
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - orc/orc_meat_cooked.png
+  fantasy_orc_meat_rotten:
+    display_name: Fantasy Orc Meat Rotten
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - orc/orc_meat_rotten.png
+  fantasy_orc_skull:
+    display_name: Fantasy Orc Skull
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - orc/orc_skull.png
+  fantasy_owl_egg:
+    display_name: Fantasy Owl Egg
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - owl/owl_egg.png
+  fantasy_owl_eye:
+    display_name: Fantasy Owl Eye
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - owl/owl_eye.png
+  fantasy_owl_feather:
+    display_name: Fantasy Owl Feather
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - owl/owl_feather.png
+  fantasy_owl_heart:
+    display_name: Fantasy Owl Heart
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - owl/owl_heart.png
+  fantasy_owl_leather:
+    display_name: Fantasy Owl Leather
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - owl/owl_leather.png
+  fantasy_owl_meat:
+    display_name: Fantasy Owl Meat
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - owl/owl_meat.png
+  fantasy_owl_meat_cooked:
+    display_name: Fantasy Owl Meat Cooked
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - owl/owl_meat_cooked.png
+  fantasy_owl_meat_rotten:
+    display_name: Fantasy Owl Meat Rotten
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - owl/owl_meat_rotten.png
+  fantasy_owl_skull:
+    display_name: Fantasy Owl Skull
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - owl/owl_skull.png
+  fantasy_owl_wing:
+    display_name: Fantasy Owl Wing
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - owl/owl_wing.png
+  fantasy_pegasus_egg:
+    display_name: Fantasy Pegasus Egg
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - pegasus/pegasus_egg.png
+  fantasy_pegasus_eye:
+    display_name: Fantasy Pegasus Eye
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - pegasus/pegasus_eye.png
+  fantasy_pegasus_fur:
+    display_name: Fantasy Pegasus Fur
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - pegasus/pegasus_fur.png
+  fantasy_pegasus_heart:
+    display_name: Fantasy Pegasus Heart
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - pegasus/pegasus_heart.png
+  fantasy_pegasus_leather:
+    display_name: Fantasy Pegasus Leather
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - pegasus/pegasus_leather.png
+  fantasy_pegasus_meat:
+    display_name: Fantasy Pegasus Meat
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - pegasus/pegasus_meat.png
+  fantasy_pegasus_meat_cooked:
+    display_name: Fantasy Pegasus Meat Cooked
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - pegasus/pegasus_meat_cooked.png
+  fantasy_pegasus_meat_rotten:
+    display_name: Fantasy Pegasus Meat Rotten
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - pegasus/pegasus_meat_rotten.png
+  fantasy_pegasus_skull:
+    display_name: Fantasy Pegasus Skull
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - pegasus/pegasus_skull.png
+  fantasy_pegasus_tail:
+    display_name: Fantasy Pegasus Tail
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - pegasus/pegasus_tail.png
+  fantasy_pegasus_tear:
+    display_name: Fantasy Pegasus Tear
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - pegasus/pegasus_tear.png
+  fantasy_pegasus_wing:
+    display_name: Fantasy Pegasus Wing
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - pegasus/pegasus_wing.png
+  fantasy_phoenix_beak:
+    display_name: Fantasy Phoenix Beak
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - phoenix/phoenix_beak.png
+  fantasy_phoenix_eeg:
+    display_name: Fantasy Phoenix Eeg
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - phoenix/phoenix_eeg.png
+  fantasy_phoenix_eye:
+    display_name: Fantasy Phoenix Eye
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - phoenix/phoenix_eye.png
+  fantasy_phoenix_feather:
+    display_name: Fantasy Phoenix Feather
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - phoenix/phoenix_feather.png
+  fantasy_phoenix_heart:
+    display_name: Fantasy Phoenix Heart
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - phoenix/phoenix_heart.png
+  fantasy_phoenix_leather:
+    display_name: Fantasy Phoenix Leather
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - phoenix/phoenix_leather.png
+  fantasy_phoenix_skull:
+    display_name: Fantasy Phoenix Skull
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - phoenix/phoenix_skull.png
+  fantasy_phoenix_tear:
+    display_name: Fantasy Phoenix Tear
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - phoenix/phoenix_tear.png
+  fantasy_phoenix_wing:
+    display_name: Fantasy Phoenix Wing
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - phoenix/phoenix_wing.png
+  fantasy_unicorn_egg:
+    display_name: Fantasy Unicorn Egg
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - unicorn/unicorn_egg.png
+  fantasy_unicorn_eye:
+    display_name: Fantasy Unicorn Eye
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - unicorn/unicorn_eye.png
+  fantasy_unicorn_fur:
+    display_name: Fantasy Unicorn Fur
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - unicorn/unicorn_fur.png
+  fantasy_unicorn_heart:
+    display_name: Fantasy Unicorn Heart
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - unicorn/unicorn_heart.png
+  fantasy_unicorn_horn:
+    display_name: Fantasy Unicorn Horn
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - unicorn/unicorn_horn.png
+  fantasy_unicorn_leather:
+    display_name: Fantasy Unicorn Leather
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - unicorn/unicorn_leather.png
+  fantasy_unicorn_meat:
+    display_name: Fantasy Unicorn Meat
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - unicorn/unicorn_meat.png
+  fantasy_unicorn_meat_cooked:
+    display_name: Fantasy Unicorn Meat Cooked
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - unicorn/unicorn_meat_cooked.png
+  fantasy_unicorn_meat_rotten:
+    display_name: Fantasy Unicorn Meat Rotten
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - unicorn/unicorn_meat_rotten.png
+  fantasy_unicorn_skull:
+    display_name: Fantasy Unicorn Skull
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - unicorn/unicorn_skull.png
+  fantasy_unicorn_tail:
+    display_name: Fantasy Unicorn Tail
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - unicorn/unicorn_tail.png
+  fantasy_unicorn_tear:
+    display_name: Fantasy Unicorn Tear
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - unicorn/unicorn_tear.png
+  fantasy_wolf_eye:
+    display_name: Fantasy Wolf Eye
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - wolf/wolf_eye.png
+  fantasy_wolf_fang:
+    display_name: Fantasy Wolf Fang
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - wolf/wolf_fang.png
+  fantasy_wolf_fur:
+    display_name: Fantasy Wolf Fur
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - wolf/wolf_fur.png
+  fantasy_wolf_heart:
+    display_name: Fantasy Wolf Heart
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - wolf/wolf_heart.png
+  fantasy_wolf_leather:
+    display_name: Fantasy Wolf Leather
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - wolf/wolf_leather.png
+  fantasy_wolf_meat:
+    display_name: Fantasy Wolf Meat
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - wolf/wolf_meat.png
+  fantasy_wolf_meat_cooked:
+    display_name: Fantasy Wolf Meat Cooked
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - wolf/wolf_meat_cooked.png
+  fantasy_wolf_meat_rotten:
+    display_name: Fantasy Wolf Meat Rotten
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - wolf/wolf_meat_rotten.png
+  fantasy_wolf_skull:
+    display_name: Fantasy Wolf Skull
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - wolf/wolf_skull.png
+  fantasy_wolf_tail:
+    display_name: Fantasy Wolf Tail
+    permission: fantasy_items.use
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - wolf/wolf_tail.png

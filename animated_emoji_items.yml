@@ -1,0 +1,330 @@
+info:
+  namespace: animated_emoji
+items:
+  animated_icon_1:
+    display_name: Animated Icon 1
+    permission: animated_emoji.item
+    resource:
+      generate: false
+      material: PAPER
+      model_path: items/animated_icon_1
+
+  animated_icon_10:
+    display_name: Animated Icon 10
+    permission: animated_emoji.item
+    resource:
+      generate: false
+      material: PAPER
+      model_path: items/animated_icon_10
+
+  animated_icon_11:
+    display_name: Animated Icon 11
+    permission: animated_emoji.item
+    resource:
+      generate: false
+      material: PAPER
+      model_path: items/animated_icon_11
+
+  animated_icon_12:
+    display_name: Animated Icon 12
+    permission: animated_emoji.item
+    resource:
+      generate: false
+      material: PAPER
+      model_path: items/animated_icon_12
+
+  animated_icon_13:
+    display_name: Animated Icon 13
+    permission: animated_emoji.item
+    resource:
+      generate: false
+      material: PAPER
+      model_path: items/animated_icon_13
+
+  animated_icon_14:
+    display_name: Animated Icon 14
+    permission: animated_emoji.item
+    resource:
+      generate: false
+      material: PAPER
+      model_path: items/animated_icon_14
+
+  animated_icon_15:
+    display_name: Animated Icon 15
+    permission: animated_emoji.item
+    resource:
+      generate: false
+      material: PAPER
+      model_path: items/animated_icon_15
+
+  animated_icon_16:
+    display_name: Animated Icon 16
+    permission: animated_emoji.item
+    resource:
+      generate: false
+      material: PAPER
+      model_path: items/animated_icon_16
+
+  animated_icon_17:
+    display_name: Animated Icon 17
+    permission: animated_emoji.item
+    resource:
+      generate: false
+      material: PAPER
+      model_path: items/animated_icon_17
+
+  animated_icon_18:
+    display_name: Animated Icon 18
+    permission: animated_emoji.item
+    resource:
+      generate: false
+      material: PAPER
+      model_path: items/animated_icon_18
+
+  animated_icon_19:
+    display_name: Animated Icon 19
+    permission: animated_emoji.item
+    resource:
+      generate: false
+      material: PAPER
+      model_path: items/animated_icon_19
+
+  animated_icon_2:
+    display_name: Animated Icon 2
+    permission: animated_emoji.item
+    resource:
+      generate: false
+      material: PAPER
+      model_path: items/animated_icon_2
+
+  animated_icon_20:
+    display_name: Animated Icon 20
+    permission: animated_emoji.item
+    resource:
+      generate: false
+      material: PAPER
+      model_path: items/animated_icon_20
+
+  animated_icon_21:
+    display_name: Animated Icon 21
+    permission: animated_emoji.item
+    resource:
+      generate: false
+      material: PAPER
+      model_path: items/animated_icon_21
+
+  animated_icon_22:
+    display_name: Animated Icon 22
+    permission: animated_emoji.item
+    resource:
+      generate: false
+      material: PAPER
+      model_path: items/animated_icon_22
+
+  animated_icon_23:
+    display_name: Animated Icon 23
+    permission: animated_emoji.item
+    resource:
+      generate: false
+      material: PAPER
+      model_path: items/animated_icon_23
+
+  animated_icon_24:
+    display_name: Animated Icon 24
+    permission: animated_emoji.item
+    resource:
+      generate: false
+      material: PAPER
+      model_path: items/animated_icon_24
+
+  animated_icon_25:
+    display_name: Animated Icon 25
+    permission: animated_emoji.item
+    resource:
+      generate: false
+      material: PAPER
+      model_path: items/animated_icon_25
+
+  animated_icon_26:
+    display_name: Animated Icon 26
+    permission: animated_emoji.item
+    resource:
+      generate: false
+      material: PAPER
+      model_path: items/animated_icon_26
+
+  animated_icon_27:
+    display_name: Animated Icon 27
+    permission: animated_emoji.item
+    resource:
+      generate: false
+      material: PAPER
+      model_path: items/animated_icon_27
+
+  animated_icon_28:
+    display_name: Animated Icon 28
+    permission: animated_emoji.item
+    resource:
+      generate: false
+      material: PAPER
+      model_path: items/animated_icon_28
+
+  animated_icon_29:
+    display_name: Animated Icon 29
+    permission: animated_emoji.item
+    resource:
+      generate: false
+      material: PAPER
+      model_path: items/animated_icon_29
+
+  animated_icon_3:
+    display_name: Animated Icon 3
+    permission: animated_emoji.item
+    resource:
+      generate: false
+      material: PAPER
+      model_path: items/animated_icon_3
+
+  animated_icon_30:
+    display_name: Animated Icon 30
+    permission: animated_emoji.item
+    resource:
+      generate: false
+      material: PAPER
+      model_path: items/animated_icon_30
+
+  animated_icon_31:
+    display_name: Animated Icon 31
+    permission: animated_emoji.item
+    resource:
+      generate: false
+      material: PAPER
+      model_path: items/animated_icon_31
+
+  animated_icon_32:
+    display_name: Animated Icon 32
+    permission: animated_emoji.item
+    resource:
+      generate: false
+      material: PAPER
+      model_path: items/animated_icon_32
+
+  animated_icon_33:
+    display_name: Animated Icon 33
+    permission: animated_emoji.item
+    resource:
+      generate: false
+      material: PAPER
+      model_path: items/animated_icon_33
+
+  animated_icon_34:
+    display_name: Animated Icon 34
+    permission: animated_emoji.item
+    resource:
+      generate: false
+      material: PAPER
+      model_path: items/animated_icon_34
+
+  animated_icon_35:
+    display_name: Animated Icon 35
+    permission: animated_emoji.item
+    resource:
+      generate: false
+      material: PAPER
+      model_path: items/animated_icon_35
+
+  animated_icon_36:
+    display_name: Animated Icon 36
+    permission: animated_emoji.item
+    resource:
+      generate: false
+      material: PAPER
+      model_path: items/animated_icon_36
+
+  animated_icon_37:
+    display_name: Animated Icon 37
+    permission: animated_emoji.item
+    resource:
+      generate: false
+      material: PAPER
+      model_path: items/animated_icon_37
+
+  animated_icon_38:
+    display_name: Animated Icon 38
+    permission: animated_emoji.item
+    resource:
+      generate: false
+      material: PAPER
+      model_path: items/animated_icon_38
+
+  animated_icon_39:
+    display_name: Animated Icon 39
+    permission: animated_emoji.item
+    resource:
+      generate: false
+      material: PAPER
+      model_path: items/animated_icon_39
+
+  animated_icon_4:
+    display_name: Animated Icon 4
+    permission: animated_emoji.item
+    resource:
+      generate: false
+      material: PAPER
+      model_path: items/animated_icon_4
+
+  animated_icon_40:
+    display_name: Animated Icon 40
+    permission: animated_emoji.item
+    resource:
+      generate: false
+      material: PAPER
+      model_path: items/animated_icon_40
+
+  animated_icon_41:
+    display_name: Animated Icon 41
+    permission: animated_emoji.item
+    resource:
+      generate: false
+      material: PAPER
+      model_path: items/animated_icon_41
+
+  animated_icon_5:
+    display_name: Animated Icon 5
+    permission: animated_emoji.item
+    resource:
+      generate: false
+      material: PAPER
+      model_path: items/animated_icon_5
+
+  animated_icon_6:
+    display_name: Animated Icon 6
+    permission: animated_emoji.item
+    resource:
+      generate: false
+      material: PAPER
+      model_path: items/animated_icon_6
+
+  animated_icon_7:
+    display_name: Animated Icon 7
+    permission: animated_emoji.item
+    resource:
+      generate: false
+      material: PAPER
+      model_path: items/animated_icon_7
+
+  animated_icon_8:
+    display_name: Animated Icon 8
+    permission: animated_emoji.item
+    resource:
+      generate: false
+      material: PAPER
+      model_path: items/animated_icon_8
+
+  animated_icon_9:
+    display_name: Animated Icon 9
+    permission: animated_emoji.item
+    resource:
+      generate: false
+      material: PAPER
+      model_path: items/animated_icon_9

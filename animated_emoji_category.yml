@@ -1,0 +1,50 @@
+info:
+  namespace: animated_emoji
+categories:
+  animated_emoji:
+    name: Animated Emoji
+    enabled: true
+    icon: animated_emoji:animated_icon_9
+    permission: ia.menu.animated_emoji
+    items:
+    - animated_emoji:animated_icon_1
+    - animated_emoji:animated_icon_10
+    - animated_emoji:animated_icon_11
+    - animated_emoji:animated_icon_12
+    - animated_emoji:animated_icon_13
+    - animated_emoji:animated_icon_14
+    - animated_emoji:animated_icon_15
+    - animated_emoji:animated_icon_16
+    - animated_emoji:animated_icon_17
+    - animated_emoji:animated_icon_18
+    - animated_emoji:animated_icon_19
+    - animated_emoji:animated_icon_2
+    - animated_emoji:animated_icon_20
+    - animated_emoji:animated_icon_21
+    - animated_emoji:animated_icon_22
+    - animated_emoji:animated_icon_23
+    - animated_emoji:animated_icon_24
+    - animated_emoji:animated_icon_25
+    - animated_emoji:animated_icon_26
+    - animated_emoji:animated_icon_27
+    - animated_emoji:animated_icon_28
+    - animated_emoji:animated_icon_29
+    - animated_emoji:animated_icon_3
+    - animated_emoji:animated_icon_30
+    - animated_emoji:animated_icon_31
+    - animated_emoji:animated_icon_32
+    - animated_emoji:animated_icon_33
+    - animated_emoji:animated_icon_34
+    - animated_emoji:animated_icon_35
+    - animated_emoji:animated_icon_36
+    - animated_emoji:animated_icon_37
+    - animated_emoji:animated_icon_38
+    - animated_emoji:animated_icon_39
+    - animated_emoji:animated_icon_4
+    - animated_emoji:animated_icon_40
+    - animated_emoji:animated_icon_41
+    - animated_emoji:animated_icon_5
+    - animated_emoji:animated_icon_6
+    - animated_emoji:animated_icon_7
+    - animated_emoji:animated_icon_8
+    - animated_emoji:animated_icon_9
